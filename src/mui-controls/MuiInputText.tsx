@@ -29,7 +29,7 @@ import merge from 'lodash/merge';
 import IconButton from '@mui/material/IconButton';
 import InputAdornment from '@mui/material/InputAdornment';
 import Close from '@mui/icons-material/Close';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/styles';
 import { JsonFormsTheme, useDebouncedChange } from '../util';
 import { InputBaseComponentProps } from '@mui/material';
 
